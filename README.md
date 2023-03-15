@@ -14,7 +14,7 @@ No need for event listeners for this one. Just flex those querySelectors muscles
 
 1. Change the span with the class `mess-with-me` to have a font size of 40px. (A span is an inline element tag, typically used inside a block of text)
 
-2. Change the paragraph with the class `mess-with-me` to have a background color of green.
+2. Change the paragraph with the class `mess-with-me-paragraph` to have a background color of green.
 
 3. Hide the second dinosaur's image so that it's no longer visible, and so that the area below it moves up to take the space. If you're not sure of how to do this, look up the CSS rule for that!
 
